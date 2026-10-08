@@ -1,0 +1,9 @@
+# 规则对根目录及 main/ 下的同名目录均生效。
+node_modules/
+dist/
+.env
+data/
+test-results/
+playwright-report/
+.DS_Store
+~$*
